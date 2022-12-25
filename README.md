@@ -11,8 +11,9 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
 
-
 ## :pencil: Tools
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+
+## :key: GitHub Stats
 ![7ahyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ahyeon&show_icons=true&theme=transparent)
