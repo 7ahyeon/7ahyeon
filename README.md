@@ -18,6 +18,9 @@
 ## :key:
 ![7ahyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ahyeon&show_icons=true&theme=transparent)
 
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7ahyeon@gmail.com)](mailto:7ahyeon@gmail.com)
+
 ## :rocket: Projects
 |Date|Name|Link|
 |------|---|---|
