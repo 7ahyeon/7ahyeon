@@ -18,7 +18,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
 ## :key:
-//![7ahyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ahyeon&show_icons=true&theme=transparent)
+<!--![7ahyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ahyeon&show_icons=true&theme=transparent)-->
 
 ## :rocket: Projects
 |Date|Name|Link|
